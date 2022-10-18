@@ -1,0 +1,23 @@
+﻿  Source.cpp
+D:\cpluplus\repos\Project2\Project2\ShapeColors.h(13,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\cpluplus\repos\Project2\Project2\ShapeDecorator.h(7,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\ShapeDecorator.h(8,41): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+D:\cpluplus\repos\Project2\Project2\CDecoratedCircle.cpp(13,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\CDecoratedCircle.cpp(19,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\CDecoratedCircle.cpp(40,18): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\DecoratedTriangle.cpp(16,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\DecoratedTriangle.cpp(21,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\DecoratedTriangle.cpp(26,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\cpluplus\repos\Project2\Project2\CircleCreator.cpp(21,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\cpluplus\repos\Project2\Project2\CircleCreator.cpp(21,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project2.vcxproj -> D:\cpluplus\repos\Project2\x64\Debug\Project2.exe
